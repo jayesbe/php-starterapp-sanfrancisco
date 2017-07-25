@@ -46,3 +46,9 @@
 
 # Backup entities generated with doctrine:generate:entities command
 */Entity/*~
+/.buildpath
+/.project
+/.settings/
+/bin/
+/app/cache
+/app/logs
